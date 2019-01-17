@@ -1,7 +1,8 @@
 body {
     background-color: #ddd;
 }h1 {
-    color: red;
+    /* color: $devRed; */
+    color: rgba(34,68,102, 0.5)
 }
 
 ul li:first-child {
