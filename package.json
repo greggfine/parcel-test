@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
-  "homepage": "https://greggfine.github.io/parcel-test",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://greggfine.github.io/parcel-test",
   "devDependencies": {
     "autoprefixer": "^9.4.5",
     "postcss-modules": "^1.4.1",
