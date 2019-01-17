@@ -2,7 +2,8 @@
 $devRed: red;
 
 h1 {
-    color: $devRed;
+    /* color: $devRed; */
+    color: rgba(#224466, 0.5)
 }
 
 ul {

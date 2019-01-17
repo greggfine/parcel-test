@@ -1,12 +1,15 @@
 {
     "plugins": {
         "postcss-simple-vars": {
-        
+            "grid": true
         },
         "postcss-nested": {
             "grid": true
         },
         "autoprefixer": {
+            "grid": true
+        },
+        "postcss-hexrgba": {
             "grid": true
         }
     }

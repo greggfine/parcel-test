@@ -12,6 +12,7 @@
   "homepage": "https://greggfine.github.io/parcel-test",
   "devDependencies": {
     "autoprefixer": "^9.4.5",
+    "postcss-hexrgba": "^1.0.1",
     "postcss-modules": "^1.4.1",
     "postcss-nested": "^4.1.1",
     "postcss-simple-vars": "^5.0.1"
