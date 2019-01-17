@@ -1,0 +1,17 @@
+@import './styles/bodyBG.css';
+$devRed: red;
+
+h1 {
+    color: $devRed;
+}
+
+ul {
+    li:first-child {
+        color: $devRed;
+        transform: translateX(20px)
+    }
+
+    li:last-child {
+        color: rebeccapurple;
+    }
+}
